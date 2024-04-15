@@ -110,7 +110,6 @@ langchain_community==0.0.20
 langchain_pinecone==0.1.0
 langchain==0.1.0
 langchain-community==0.0.20
-langchain-core==0.1.42
 langchain-groq==0.0.1
 langchain-openai==0.0.2.post1
 langchain-pinecone==0.1.0
