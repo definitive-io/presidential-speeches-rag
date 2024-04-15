@@ -4,9 +4,6 @@ import numpy as np
 from groq import Groq
 from pinecone import Pinecone
 
-from langchain_community.vectorstores import Chroma
-from langchain.text_splitter import TokenTextSplitter
-from langchain.docstore.document import Document
 from langchain_community.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain_pinecone import PineconeVectorStore
 
