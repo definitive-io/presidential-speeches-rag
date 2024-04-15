@@ -1,0 +1,7 @@
+streamlit==1.31.0
+pandas==1.5.1
+numpy==1.23.4
+groq==0.4.1
+pinecone==3.2.2
+langchain_community==0.0.20
+langchain_pinecone==0.1.0
