@@ -115,7 +115,7 @@ langchain-groq==0.0.1
 langchain-openai==0.0.2.post1
 langchain-pinecone==0.1.0
 langchain-text-splitters==0.0.1
-langsmith==0.0.83
+langsmith
 llama-index==0.10.16
 llama-index-agent-openai==0.1.5
 llama-index-cli==0.1.7
