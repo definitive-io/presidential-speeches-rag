@@ -117,7 +117,7 @@ def main():
     additional_context = st.sidebar.text_input('Enter additional summarization context for the LLM here (i.e. write it in spanish):')
     model = st.sidebar.selectbox(
         'Choose a model',
-        ['mixtral-8x7b-32768', 'llama2-70b-4096', 'gemma-7b-it']
+        ['llama3-8b-8192', 'mixtral-8x7b-32768', 'gemma-7b-it']
     )
 
     # Get the user's question
@@ -133,4 +133,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
